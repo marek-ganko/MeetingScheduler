@@ -1,0 +1,140 @@
+[
+    {
+        "name": "John Doe",
+        "timezone": "Europe/Oslo",
+        "work": {
+            "from": "8:00",
+            "to": "17:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:30"
+            }
+        ]
+    },
+    {
+        "name": "Jan Nowak",
+        "timezone": "Europe/Warsaw",
+        "work": {
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:30"
+            }
+        ]
+    },
+    {
+        "name": "Clark Kent",
+        "timezone": "Europe/London",
+        "work": {
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:30"
+            }
+        ]
+    },
+    {
+        "name": "Bob Marley",
+        "timezone": "America/Jamaica",
+        "work": {
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            },
+            {
+                "from": "2014-08-02 10:00",
+                "to": "2014-08-02 11:00"
+            }
+        ]
+    },
+    {
+        "name": "Jan Kowalski",
+        "timezone": "Europe/Warsaw",
+        "work": {
+            "from": "8:00",
+            "to": "15:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            }
+        ]
+    },
+    {
+        "name": "Bart Simpson",
+        "timezone": "America/Phoenix",
+        "work": {
+            "from": "8:00",
+            "to": "17:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            }
+        ]
+    },
+    {
+        "name": "Robin Williams",
+        "timezone": "America/Denver",
+        "work": {
+            "from": "7:00",
+            "to": "15:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            }
+        ]
+    },
+    {
+        "name": "Jan Kowalsky",
+        "timezone": "America/Havana",
+        "work": {
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            }
+        ]
+    },
+    {
+        "name": "Will Smith",
+        "timezone": "America/Halifax",
+        "work": {
+            "from": "8:00",
+            "to": "16:00"
+        },
+        "booked": [
+            {
+                "from": "2014-08-01 9:00",
+                "to": "2014-08-01 10:00"
+            }
+        ]
+    },
+    {
+        "name": "Zoltan Chivay",
+        "timezone": "Europe/Moscow",
+        "work": {
+            "from": "8:00",
+            "to": "19:00"
+        }
+    }
+]
