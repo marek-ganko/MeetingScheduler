@@ -1,3 +1,6 @@
+MeetingScheduler
+================
+
 Scheduler is a class that schedules meetings for attendees from different timezones.
 In case of failure it will try to find a time-slot with maximum participants and will also return a list of available and unavailable attendees.
 
